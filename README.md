@@ -2,7 +2,7 @@
 
 > **Clarity precedes success.** Marg helps 10th-pass, 12th-pass and college students explore academic streams, discover career paths, see the skills each career needs, and browse internships and jobs — all with instant, in-browser search.
 
-🔗 **Live demo:** https://YOUR-APP.vercel.app
+🔗 **Live demo:** https://marg-eta.vercel.app/
 📄 Built as a 4th-semester B.Tech (CSE) Micro Project at **Dhemaji Engineering College, Assam**.
 
 ---
@@ -52,7 +52,7 @@ Marg/
 **Prerequisites:** Node.js 18+ and a free [Firebase](https://console.firebase.google.com) project.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Marg.git
+git clone https://github.com/manishdas2071/Marg.git
 cd Marg/frontend
 npm install
 cp .env.example .env        # Windows: copy .env.example .env
@@ -92,7 +92,6 @@ See [DEPLOYMENT.md](./DEPLOYMENT.md) for the full step-by-step Vercel guide.
 | Royel Nath | 2481105763 |
 | Suraj Saikia | 2481105774 |
 | Manash Pratim Borah | 2481105758 |
-| Nabajyoti Bhuyan | 2481105760 |
 
 **Guide:** Dhrubajyoti Malakar · **Department:** Computer Science & Engineering, Dhemaji Engineering College
 
