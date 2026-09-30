@@ -2,7 +2,6 @@ import Manjit from '../assets/Photos/Manjit.jpeg';
 import Suraj from '../assets/Photos/Suraj.jpeg';
 import Royel from '../assets/Photos/Royel.jpeg';
 import Manash from '../assets/Photos/Manash.jpeg';
-import Nabajyoti from '../assets/Photos/Nabajyoti.jpeg';
 
 export default function AboutUs() {
   const teamMembers = [
@@ -33,13 +32,6 @@ export default function AboutUs() {
       role: "Project Presenter",
       bio: "Guiding the audience through the project's features and workflow.",
       image: Manash
-    },
-    {
-      id: 5,
-      name: "Nabajyoti Bhuyan",
-      role: "Pitch Strategist",
-      bio: "Handling the formal pitch.",
-      image: Nabajyoti
     }
   ];
 
